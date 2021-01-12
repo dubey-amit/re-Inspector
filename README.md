@@ -20,5 +20,11 @@ Once target application crawling is completed, right-click on the URL from anywh
 
 
 ## Installation
+Download latest python file
 
 ![Alt Text](https://raw.githubusercontent.com/dubey-amit/re-Inspector/main/installation.gif?token=AFBIUHSVH6HRFW3ORJESWK277WAQE)
+
+## Todo list
+- Support for multiple host.
+- More vulnerabilities to be added.
+- Identifying API keys and secrets.
