@@ -21,3 +21,4 @@ Once target application crawling is completed, right-click on the URL from anywh
 
 ## Installation
 
+![Alt Text](https://raw.githubusercontent.com/dubey-amit/re-Inspector/main/installation.gif?token=AFBIUHSVH6HRFW3ORJESWK277WAQE)
