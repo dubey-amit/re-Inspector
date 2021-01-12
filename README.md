@@ -16,7 +16,7 @@ Currently, re-Inspector helps to generate reports in CSV and text format which c
 ## Usage
 Once target application crawling is completed, right-click on the URL from anywhere and select “Send to re-Inspector”. Open re-Inspector tab from extension bar. Check all the vulnerabilities which are needed to be tested and click on Scan.
 
-![Alt Text](https://raw.githubusercontent.com/dubey-amit/re-Inspector/main/Demo.gif?token=AFBIUHXP3LAWQNDB7K6VMCS77V7PQ)
+![Alt Text](https://raw.githubusercontent.com/dubey-amit/re-Inspector/main/Demo.gif?token=AFBIUHUKY6NTTTWQ5Z7UGES77WAVS)
 
 
 ## Installation
