@@ -26,5 +26,6 @@ Download latest python file
 
 ## Todo list
 - Support for multiple host.
+- Directory specific scan.
 - More vulnerabilities to be added.
 - Identifying API keys and secrets.
